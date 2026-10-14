@@ -12,7 +12,7 @@ Foncier;F5;Carte Interactive;Carte des emprises foncières des permis de constru
 Foncier;F6;Carte Interactive;Carte des zones d’activités économiques de Châlons-Agglo;;CA de Châlons-en-Champagne;"FF, Locomvac, données ""métiers"" (CAC)";;;À définir;En attente;
 Foncier;F7;Carte;OCS Grand Est II;;SCoT;OCS Grand Est 2;;;À définir;En attente;
 Foncier;F8;Carte Interactive et Atlas A4;Observatoire des friches du Pays de Châlons;;SCoT;BD EPFGE, BD Cartofriches;;;À définir;En attente;
-Démographie;D1;Portrait A4;Les bassins de vie;Abdou;SCoT;INSEE;2022;Priorité 1;Validé;oui;Carte disponible
+Démographie;D1;Portrait A4;Les bassins de vie;Abdou;SCoT;INSEE;2022;Priorité 1;À mettre à jour;En attente;
 Démographie;D2;Portrait A4;Répartition de la population en (année);;SCoT;INSEE;;;À mettre à jour;En attente;
 Démographie;D3;Portrait A4 / A5;Évolution démographique entre (année) et (année);;SCoT;INSEE;;;À mettre à jour;En attente;
 Démographie;D4;Portrait A4;Revenu médian mensuel des ménages en (année);Abdou;SCoT;INSEE;;;À mettre à jour;En attente;

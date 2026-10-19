@@ -37,7 +37,7 @@
 [CmdletBinding()]
 param(
     [string]$Source = 'Z:\public\gestion_temps_audc',
-    [string]$Repo = 'C:\git\methodes_travaux_audc51',
+    [string]$Repo = 'C:\git\tableau-de-bord-etudes-carto-audc51',
     [string]$Branch = 'main',
     [switch]$NoPush,
     [string]$LogFile = ''
